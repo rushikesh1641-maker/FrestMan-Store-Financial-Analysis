@@ -121,7 +121,7 @@ The **Finance Analytics Dashboard** aims to:
 **Alt Text:**  
 Power BI Finance Analytics Dashboard showing KPIs, revenue trends, expense analysis, and profitability insights.
 
-*(Add dashboard image here if required)*
+*(https://github.com/rushikesh1641-maker/FrestMan-Store-Financial-Analysis/blob/main/Featman%20Store%20Analysis.png)*
 
 ---
 
